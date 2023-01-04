@@ -2,7 +2,7 @@
 
 ## Notable recent projects
 
-- [Find Your Hat, a terminal game](https://github.com/Radllaufer/jsProjects/blob/main/codeCademy/findYourHat/main.js)
+- [Find Your Hat, a terminal game](https://github.com/Radllaufer/js-projects/blob/9177e16b719e8a037bfb4a5107d31ec8262e21b4/codeCademy/FindYourHat/main.js)
 
 ## Currently working on:
 
